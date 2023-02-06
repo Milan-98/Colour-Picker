@@ -1,0 +1,45 @@
+.main{
+    height: 500px;
+    background-color: darkred;
+    margin-top: 20px;
+    border-radius: 200px;
+}
+.one{
+    background-color: aquamarine;
+    height: 30px;
+    width: 30px;
+    border-radius: 20px;
+    margin-left: 1000px;
+}
+.two{
+    background-color: forestgreen;
+    height: 30px;
+    width: 30px;
+    border-radius: 20px;
+}
+.three{
+    background-color: blue;
+    height: 30px;
+    width: 30px;
+    border-radius: 20px;
+}
+.four{
+    background-color: peru;
+    height: 30px;
+    width: 30px;
+    border-radius: 20px;
+}
+
+.five{
+    background-color: salmon;
+    height: 30px;
+    width: 30px;
+    border-radius: 20px;
+}
+.six{
+    background-color: yellowgreen;
+    height: 30px;
+    width: 30px;
+    border-radius: 20px;
+}
+
